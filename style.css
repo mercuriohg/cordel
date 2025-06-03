@@ -77,7 +77,7 @@ footer p{
 }
 @media(max-width:550px){
     p{
-    line-height: 1.1em;
+    line-height: 1em;
     font-size: larger;
     width: 40vw;
     height: 48vh;
